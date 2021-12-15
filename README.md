@@ -1,3 +1,3 @@
 # webbserv
 
-Test
+Test script
